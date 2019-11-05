@@ -17,6 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 [Youtube Link](https://www.youtube.com/watch?v=5QlSEBicNp0&t=73sd)
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
 
 
