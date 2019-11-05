@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 [Youtube Link](https://www.youtube.com/watch?v=5QlSEBicNp0&t=73sd)
 
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](imgs/ezgif.com-video-to-gif.gif)
